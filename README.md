@@ -1,13 +1,12 @@
-### Hi there 👋, my name is Abdullah 
+# Hi there 👋, my name is Abdullah 
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-Skills:  HTML / CSS / python 
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript  
 
+## Skills:  HTML / CSS / python 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdullah89255)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hackpy3)  
 
