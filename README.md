@@ -1,4 +1,4 @@
-<img width="1300" height="725" alt="image" src="https://github.com/user-attachments/assets/fea0ef9d-d207-46bb-9240-6d846ba0c7b0" />### Hi there 👋, My name is Abdullah
+### Hi there 👋, My name is Abdullah
 #### I am a script writer
 ![I am a script writer](https://c8.alamy.com/comp/2WBKNX1/set-of-most-popular-script-and-programming-computer-languages-logos-coding-language-python-java-c-plus-plus-c-c-sharp-go-swift-php-javascript-2WBKNX1.jpg)
 
