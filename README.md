@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Abdullah
 #### I am a script writer
-![I am a script writer](https://c8.alamy.com/comp/2WBKNX1/set-of-most-popular-script-and-programming-computer-languages-logos-coding-language-python-java-c-plus-plus-c-c-sharp-go-swift-php-javascript-2WBKNX1.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
