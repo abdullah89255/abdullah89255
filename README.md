@@ -1,8 +1,8 @@
-### Hi there 👋, My name is Abdullah
-#### I am a script writer
+## Hi there 👋, My name is Abdullah
+### I am a script writer
 
-I made this project just for Bug-hunting.
-Skills: Bash/Python/VUE JS / REACT / JS / HTML / CSS
+##### I made this project just for Bug-hunting.
+###### Skills: Bash/Python/VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning about making script 
